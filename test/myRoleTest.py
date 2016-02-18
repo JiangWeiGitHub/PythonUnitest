@@ -1,6 +1,6 @@
 import unittest
 
-from myRole import myRole
+from source.myRole import myRole
 
 class MyRoleTest(unittest.TestCase):
 
